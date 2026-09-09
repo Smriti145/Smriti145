@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/Smriti145">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Smriti+%F0%9F%91%8B;Building+Full-Stack+Products; Currently%3A+Product+Traceability+Platform;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Smriti+%F0%9F%91%8B;Building+Full-Stack+Products;Currently%3A+Product+Traceability+Platform;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 </div>
