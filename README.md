@@ -1,126 +1,123 @@
+<!-- ==================== HEADER BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:A29BFE&height=210&section=header&text=Hi,%20I'm%20Smriti%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Dev%20%7C%20Building%20TraceChain,%20a%20Traceability%20Platform&descSize=18&descAlignY=62" />
+
 <div align="center">
-
-```
-┌─────────────────────────────────────────────┐
-│  guest@smriti-145:~$ whoami                  │
-└─────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=750&lines=Smriti+Pandey;Full-Stack+Developer;Building%3A+TraceChain+%F0%9F%94%97;Based+in+Mumbai%2C+India" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Smriti145&label=visitors&color=39FF14&style=flat-square&labelColor=0D1117" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Smriti145?label=followers&style=flat-square&color=39FF14&labelColor=0D1117" alt="followers" />
-<img src="https://img.shields.io/badge/location-mumbai%2C%20india-39FF14?style=flat-square&labelColor=0D1117" alt="location" />
-
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Products;Currently+building%3A+TraceChain+%F0%9F%94%97;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </div>
 
 <br/>
 
-```bash
-guest@smriti-145:~$ cat about.txt
-```
-
-- 🚀 Building **TraceChain** — a supply-chain product traceability platform (manufacturer portal + QR verification + mobile app)
-- 🌱 Treating it as a structured **SDLC exercise**: analysis → architecture → build, with mentor checkpoints at every phase
-- 🛒 Built **Farmio** — a farm-to-consumer ordering platform connecting farmers directly with customers
-- ⚙️ Into backend architecture, system design, and products that solve real supply-chain problems
-- 📍 `Mumbai, Maharashtra, India`
-
-<br/>
-
-```bash
-guest@smriti-145:~$ ls stack/
-```
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=39FF14)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=for-the-badge&logo=react&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=39FF14)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![Prisma](https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=39FF14)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
-
-</div>
-
-> `# edit this list anytime — swap badges as your stack changes`
-
-<br/>
-
-```bash
-guest@smriti-145:~$ ls -la projects/
-```
-
-<table>
+<!-- ==================== SIDEBAR + MAIN LAYOUT ==================== -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-```
-drwxr-xr-x  TraceChain/
-```
-**[→ github.com/Smriti145/TraceChain](https://github.com/Smriti145/TraceChain)**
+<!-- ---------- LEFT SIDEBAR ---------- -->
+<td width="28%" valign="top">
 
-A product provenance system: manufacturer web portal, Express/Prisma API, React Native app. Manufacturers generate unique QR codes; scanning one verifies authenticity and shows the full supply-chain journey.
+<div align="center">
 
-```
-$ features --list
-  - role-based API access (JWT)
-  - PostgreSQL + Prisma data layer
-  - public HTML provenance report / QR
-  - demo data: food, pharma, textiles, electronics
-```
+<img src="https://avatars.githubusercontent.com/u/175696318?v=4" width="160" style="border-radius:50%" alt="Smriti's avatar"/>
+
+### Smriti Pandey
+📍 Mumbai, India
+🎯 Full-stack & backend systems
+
+<img src="https://komarev.com/ghpvc/?username=Smriti145&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="profile views" />
+<br/>
+<img src="https://img.shields.io/github/followers/Smriti145?label=Followers&style=flat-square&color=6c5ce7" alt="followers" />
+
+<br/><br/>
+
+**🛠️ Tech Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br/><br/>
+
+**🤝 Connect**
+
+<!-- Replace the # links with your real profile URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+</div>
+
+</td>
+
+<!-- ---------- RIGHT MAIN CONTENT ---------- -->
+<td width="72%" valign="top">
+
+### 👩‍💻 About Me
+
+- 🚀 Currently building **TraceChain** — a supply-chain product traceability platform with a manufacturer portal, QR verification, and a mobile app
+- 🌱 Approaching it as a structured **SDLC learning exercise**: business analysis → stakeholder mapping → architecture → build, with mentor checkpoints along the way
+- 🛒 Also built **Farmio**, a farm-to-consumer ordering platform connecting farmers directly with customers
+- 💡 Interested in backend architecture, system design, and products that solve real supply-chain problems
+
+<br/>
+
+### 🚀 Featured Projects
+
+<details open>
+<summary><b>🔗 TraceChain</b> — Product Provenance & Traceability Platform</summary>
+<br/>
+
+A product provenance system with a manufacturer web portal, an Express/Prisma API, and a React Native app. Manufacturers generate unique QR codes for products; scanning a code verifies authenticity and shows the full supply-chain journey.
+
+**Highlights**
+- Role-based API access with JWT auth
+- PostgreSQL + Prisma data layer
+- Public HTML provenance report per QR
+- Demo data across food, pharma, textiles, electronics
 
 `Node.js` `Express` `Prisma` `PostgreSQL` `React Native` `TypeScript`
 
-</td>
-<td width="50%" valign="top">
+**[→ View Repo](https://github.com/Smriti145/TraceChain)**
 
-```
-drwxr-xr-x  Farmio/
-```
-**[→ github.com/Smriti145/Farmio](https://github.com/Smriti145/Farmio)**
+</details>
+
+<br/>
+
+<details>
+<summary><b>🛒 Farmio</b> — Farm-to-Consumer Ordering Platform</summary>
+<br/>
 
 A farm-to-consumer ordering platform connecting farmers directly with customers.
 
-```
-$ features --list
-  - separate farmer & customer login flows
-  - product listing + ordering pages
-  - checkout & order summary screens
-```
+**Highlights**
+- Separate farmer & customer login flows
+- Product listing and ordering pages
+- Checkout and order summary screens
 
 `HTML` `CSS` `JavaScript`
+
+**[→ View Repo](https://github.com/Smriti145/Farmio)**
+
+</details>
+
+<br/>
+
+### 🌱 Currently
+
+Working through TraceChain's SDLC phases one checkpoint at a time — business problem analysis, stakeholder mapping, competitor research, and a role-based access control framework, all reviewed with a mentor along the way.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-```bash
-guest@smriti-145:~$ cat contact.txt
-```
+<!-- ==================== FOOTER BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:A29BFE&height=100&section=footer" />
 
 <div align="center">
-
-<!-- swap the # links below for your real profile URLs -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=39FF14" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```bash
-guest@smriti-145:~$ echo "thanks for stopping by ✌"
-> thanks for stopping by ✌
-```
-
+<sub>⭐ from <a href="https://github.com/Smriti145">Smriti145</a> — thanks for stopping by!</sub>
 </div>
