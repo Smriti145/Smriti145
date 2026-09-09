@@ -84,18 +84,6 @@ A farm-to-consumer ordering platform connecting farmers directly with customers.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Smriti145&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti145&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Smriti145&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<br/>
 
 ## 🤝 Connect With Me
 
