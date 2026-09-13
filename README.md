@@ -43,12 +43,16 @@
 
 <br/><br/>
 
+**🔥 GitHub Streak**
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti145&theme=dark&hide_border=true&background=0D1117&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" />
+
+<br/><br/>
 **🤝 Connect**
 
-<!-- Replace the # links with your real profile URLs -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-pandey-812637435/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/SmritiP70205427)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeysmriti145@gmail.com)
 
 </div>
 
