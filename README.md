@@ -52,6 +52,7 @@
 <sub>Backend</sub><br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
@@ -86,6 +87,7 @@
 
 - 🚀 Currently building **TraceChain** — a supply-chain product traceability platform with a manufacturer portal, QR verification, and a mobile app
 - 🌱 Approaching it as a structured **SDLC learning exercise**: business analysis → stakeholder mapping → architecture → build, with mentor checkpoints along the way
+- 🩺 Also building **Personal Helper (Saha)** — a native React Native health & routine app with a lightweight account API
 - 🛒 Also built **Farmio**, an earlier farm-to-consumer ordering platform connecting farmers directly with customers
 - 💡 Interested in backend architecture, system design, and products that solve real supply-chain problems
 
@@ -128,6 +130,31 @@ A product provenance system with a manufacturer web portal, an Express/Prisma AP
 
 **Links**
 📦 [Repository](https://github.com/Smriti145/TraceChain) &nbsp;•&nbsp; 📄 [Production Architecture Docs](https://github.com/Smriti145/TraceChain/blob/main/docs/PRODUCTION_ARCHITECTURE.md)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🩺 Personal Helper (Saha)</b> — Native Health & Routine App &nbsp; <code>🟡 In Development</code></summary>
+<br/>
+
+**What it does**
+Saha is a bare React Native (CLI, no Expo) Android/iOS app for daily health and routine tracking — medication schedules, meals, hydration, movement, sleep, and wellbeing — backed by a minimal account API for login, multi-user support, and durable persistence. Native reminders run on-device, with a temporary local preview mode kept explicitly separate from synced, durable data.
+
+**Key engineering work**
+- Structured the codebase into `mobile-app`, `shared`, `server`, `tests`, and `docs`, with a shared routine/scheduling domain reused by both the app and the API
+- Built the account API on Cloudflare Workers for login, multi-user accounts, and persistence
+- Implemented native notification scheduling with Notifee — quiet hours, snooze, category preferences, and a rolling 7-day refresh window with per-platform delivery caps
+- Made reminder updates reconcile individual triggers instead of clearing the whole queue, and explicitly flag ambiguous daylight-saving transitions instead of silently resolving them
+- Wrote a regression test suite for routines/reminders, plus typecheck scripts across both the app and the server
+- Keeps a running repository audit (`docs/REPOSITORY_AUDIT.md`) tracking verified coverage and known correctness issues — including an openly logged cross-midnight snooze edge case still being worked through
+
+**Tech stack**
+`React Native (CLI)` `TypeScript` `Cloudflare Workers` `Notifee`
+
+**Links**
+📦 [Repository](https://github.com/Smriti145/Personal-Helper)
 
 </details>
 
