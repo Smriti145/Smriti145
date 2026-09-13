@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Products;Currently+building%3A+TraceChain+%F0%9F%94%97;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </div>
 
+<p align="center">
+<sub><i>I build practical, full-stack systems — backend to mobile — and treat every project as a real SDLC exercise, checkpoint by checkpoint.</i></sub>
+</p>
+
 <br/>
 
 <!-- ==================== SIDEBAR + MAIN LAYOUT ==================== -->
@@ -28,30 +32,47 @@
 
 <br/><br/>
 
-**🛠️ Tech Stack**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/><br/>
-
-**🔥 GitHub Streak**
+**🔥 GitHub Stats**
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti145&theme=dark&hide_border=true&background=0D1117&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" />
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti145&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A29BFE&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+
 <br/><br/>
+
+**🛠️ Tech Stack**
+
+<sub>Languages</sub><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+<sub>Backend</sub><br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+<sub>Database</sub><br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+<sub>Mobile</sub><br/>
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+<sub>Tools</sub><br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<br/><br/>
+
 **🤝 Connect**
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Smriti145)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-pandey-812637435/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/SmritiP70205427)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SmritiP70205427)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandeysmriti145@gmail.com)
 
 </div>
@@ -65,53 +86,115 @@
 
 - 🚀 Currently building **TraceChain** — a supply-chain product traceability platform with a manufacturer portal, QR verification, and a mobile app
 - 🌱 Approaching it as a structured **SDLC learning exercise**: business analysis → stakeholder mapping → architecture → build, with mentor checkpoints along the way
-- 🛒 Also built **Farmio**, a farm-to-consumer ordering platform connecting farmers directly with customers
+- 🛒 Also built **Farmio**, an earlier farm-to-consumer ordering platform connecting farmers directly with customers
 - 💡 Interested in backend architecture, system design, and products that solve real supply-chain problems
+
+<br/>
+
+### 🎯 Engineering Focus
+
+- Full-stack web applications with database-backed APIs
+- Backend systems — REST API design, authentication, and role-based access control
+- QR-based product verification and traceability workflows
+- Mobile app development with React Native
+- System design fundamentals — architecture trade-offs and production readiness
 
 <br/>
 
 ### 🚀 Featured Projects
 
 <details open>
-<summary><b>🔗 TraceChain</b> — Product Provenance & Traceability Platform</summary>
+<summary><b>🔗 TraceChain</b> — Product Provenance & Traceability Platform &nbsp; <code>🟢 Active Development</code></summary>
 <br/>
 
-A product provenance system with a manufacturer web portal, an Express/Prisma API, and a React Native app. Manufacturers generate unique QR codes for products; scanning a code verifies authenticity and shows the full supply-chain journey.
+**The problem:** buyers have no easy way to verify a product's origin and handling beyond trusting a label.
 
-**Highlights**
-- Role-based API access with JWT auth
-- PostgreSQL + Prisma data layer
-- Public HTML provenance report per QR
-- Demo data across food, pharma, textiles, electronics
+**What it does**
+A product provenance system with a manufacturer web portal, an Express/Prisma API, and a React Native app. Manufacturers register products and generate unique QR codes; scanning one verifies authenticity and shows the complete supply-chain journey — from the app or any phone camera.
 
-`Node.js` `Express` `Prisma` `PostgreSQL` `React Native` `TypeScript`
+**Key engineering work**
+- Designed the relational schema (PostgreSQL + Prisma) for products, batches, and supply-chain events
+- Built a role-based Express API secured with JWT authentication
+- Generated collision-resistant batch identifiers for every QR code
+- Added liveness/readiness health checks, structured request logging, and graceful shutdown for production readiness
+- Set up type-checking, linting, and automated tests (`tsc --noEmit`, ESLint, Jest) for the mobile app
+- Documented a phased production architecture (modular-monolith → service split) covering topology, security policy, and scale milestones
+- Configured CI via GitHub Actions
 
-**[→ View Repo](https://github.com/Smriti145/TraceChain)**
+**Tech stack**
+`TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `React Native` `JWT`
+
+**Demo data:** 6 product categories — food, wellness, pharmaceuticals, textiles, electronics, cosmetics
+
+**Links**
+📦 [Repository](https://github.com/Smriti145/TraceChain) &nbsp;•&nbsp; 📄 [Production Architecture Docs](https://github.com/Smriti145/TraceChain/blob/main/docs/PRODUCTION_ARCHITECTURE.md)
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🛒 Farmio</b> — Farm-to-Consumer Ordering Platform</summary>
+<summary><b>🛒 Farmio</b> — Farm-to-Consumer Ordering Platform &nbsp; <code>⚪ Archived</code></summary>
 <br/>
 
-A farm-to-consumer ordering platform connecting farmers directly with customers.
+**The problem:** farmers often rely on middlemen to reach customers, losing margin and direct relationships.
 
-**Highlights**
-- Separate farmer & customer login flows
-- Product listing and ordering pages
-- Checkout and order summary screens
+**What it does**
+An earlier front-end project prototyping a farm-to-consumer ordering flow — separate farmer and customer login/registration, a product catalog, and a full checkout → payment → order-summary flow.
 
-`HTML` `CSS` `JavaScript`
+**Key engineering work**
+- Built separate farmer and customer flows (registration, login, dashboards)
+- Structured multi-page navigation across listing, cart, checkout, and payment screens
+- Laid out reusable HTML/CSS UI components ahead of introducing a backend
 
-**[→ View Repo](https://github.com/Smriti145/Farmio)**
+**Tech stack**
+`HTML5` `CSS3` `JavaScript`
+
+**Links**
+📦 [Repository](https://github.com/Smriti145/Farmio)
 
 </details>
 
 <br/>
 
-### 🌱 Currently
+### 🧩 Engineering Practices
+
+- REST API design & implementation
+- JWT authentication & role-based access control (RBAC)
+- Relational schema design (PostgreSQL + Prisma)
+- Environment configuration & validation
+- Structured logging, health checks, and graceful shutdown
+- Type-checking, linting & automated tests before shipping
+- CI pipelines via GitHub Actions
+- SDLC-driven workflow with mentor checkpoints
+
+<br/>
+
+### 🌱 Open Source
+
+Currently building the habit of contributing beyond my own repos, starting with:
+
+- Reading and understanding unfamiliar codebases
+- Investigating issues before proposing fixes
+- Small documentation and bug-fix contributions
+- Learning collaborative Git workflows — branches, PRs, code review
+
+<sub><i>No merged contributions yet — this section will grow as they land.</i></sub>
+
+<br/>
+
+### 📚 Currently Learning
+
+- Backend architecture & system design
+- Database design patterns
+- Testing strategies for full-stack apps
+- CI/CD pipelines
+- Data structures & algorithms
+- Contributing to open source
+
+<br/>
+
+### 🔨 Currently Building
 
 Working through TraceChain's SDLC phases one checkpoint at a time — business problem analysis, stakeholder mapping, competitor research, and a role-based access control framework, all reviewed with a mentor along the way.
 
