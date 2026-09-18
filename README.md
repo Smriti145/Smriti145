@@ -34,7 +34,7 @@
 
 **🔥 GitHub Stats**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti145&theme=dark&hide_border=true&background=0D1117&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/ user=Smriti145&theme=dark&hide_border=true&background=0D1117&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&cache_seconds=300"  alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
