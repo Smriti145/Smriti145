@@ -36,8 +36,6 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti145&theme=dark&hide_border=true&background=0D1117&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=A29BFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti145&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A29BFE&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
-
 <br/><br/>
 
 **🛠️ Tech Stack**
